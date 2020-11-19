@@ -938,19 +938,5 @@ public class PRM extends javax.swing.JFrame
     private javax.swing.JButton selectrem;
     private javax.swing.JTabbedPane test;
     // End of variables declaration//GEN-END:variables
-
-    
-            
-            /*int day=cal.get(Calendar.DAY_OF_MONTH);
-            int month=cal.get(Calendar.MONTH);
-            int year=cal.get(Calendar.YEAR);
-    
-            int second=cal.get(Calendar.SECOND);
-            int minute=cal.get(Calendar.MINUTE);
-            int hour=cal.get(Calendar.HOUR);
-            clocktime.setText(hour+":"+minute+":"+second);
-            dayte.setText(day+"/"+month+"/"+year);
-            */
-
-          
+        
 }
